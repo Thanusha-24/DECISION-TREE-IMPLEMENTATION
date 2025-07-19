@@ -8,11 +8,12 @@ INTERN ID: CT06DF1581
 
 DOMAIN: MACHINE LEARNING
 
-DURATION: 6 WEEEKS
+DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-📝 Task Overview
+📝 Task Overview:
+
 This repository contains my implementation for Task 1 of the internship, which focuses on building, training, and visualizing a Decision Tree Classifier using the Scikit-learn library in Python. The objective of this task is to gain practical experience with one of the most interpretable and foundational machine learning algorithms—Decision Trees—and apply it to a classification problem.
 
 A decision tree is a tree-like model of decisions and their possible consequences. It splits the dataset based on feature values and creates a structure that mimics human decision-making. This model is particularly useful due to its clarity and simplicity in understanding how predictions are made.
@@ -85,7 +86,8 @@ Pandas & NumPy
 
 Matplotlib & Seaborn (for data and tree visualization)
 
-📁 Files Included
+📁 Files Included:
+
 decision_tree_task1.ipynb: Main notebook with model implementation, visualization, and analysis
 
 Decision-tree-output.jpg: Output image of the visualized decision tree
