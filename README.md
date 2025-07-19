@@ -88,7 +88,7 @@ Matplotlib & Seaborn (for data and tree visualization)
 📁 Files Included
 decision_tree_task1.ipynb: Main notebook with model implementation, visualization, and analysis
 
-Decision tree output.jfif: Output image of the visualized decision tree
+Decision-tree-output.jpg: Output image of the visualized decision tree
 
 README.md: This documentation file
 
