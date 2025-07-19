@@ -92,5 +92,6 @@ Decision-tree-output.jpg: Output image of the visualized decision tree
 
 README.md: This documentation file
 
-OUTPUT:
+# OUTPUT:
+![Image](https://github.com/user-attachments/assets/5fbdc680-a5c5-4069-bc08-9144a2f85abe)
 
